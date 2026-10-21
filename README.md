@@ -3,5 +3,6 @@
 ## About Me
 
 
-Hi, I'm a first-year student interested in programming and software development. I'm building my skills one project at a time and enjoy learning how technology can solve real-world problems.
+I am a Computer Science student interested in software development, artificial intelligence, and machine learning. I enjoy exploring new technologies, building practical projects, and continuously improving my technical skills. I aim to apply my knowledge to solve real-world problems and contribute to meaningful projects.
 
+# git-project-Shourya-Sahai
